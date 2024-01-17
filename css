@@ -1,1 +1,32 @@
+/* Add your custom styles here */
 
+/* Navbar Styles */
+.navbar {
+    background-color: #3498db;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+/* Page Heading Styles */
+.page-heading {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+/* Main Content Section Styles */
+.main-section {
+    background-color: #ecf0f1;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Navbar Scroll Effect Styles */
+.navbar-scroll {
+    transition: background-color 0.3s ease-in-out;
+}
+
+.navbar-scroll.navbar-fixed-top {
+    background-color: #3498db;
+}
